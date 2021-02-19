@@ -17,8 +17,9 @@ You can reach me on <a href="mailto:mishraaman2210@gmail.com"><img height="16" w
 	Until then, <b><i>Happy Coding!</i></b> 😊
 </div>
 <br>	
-<br>	
-## 📈 GitHub Stat's
+<br>
+	
+##  📈 GitHub Stat's
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Am-Coder&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 
