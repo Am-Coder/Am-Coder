@@ -4,13 +4,15 @@
 You have finally reached me. So, here it goes -> I am Aman Mishra , a passionate software dev and machine learning enthusiast. I love solving 
 complex problems and make them look easy. Java and Python are my main tools for this task although I hold considerable experience in different other languages as well. In short, whatever suits the best :wink: . 
 <br>
+<br>
 On a side note, I love football :soccer: and have recently grown a dire interest in chess ♚. Ocassionally, I meditate as well. And that will be all from my side :smiley: .
 </div>
+<br>
 
 <div>
 	Want to know more about me and my work, heres my <a href="https://am-coder.github.io/personal-site/"><b>Portfolio</b></a>
 	<br>	
-	Until then, <i>Happy Coding!</i> 😊
+	Until then, <b><i>Happy Coding!</i></b> 😊
 </div>
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Am-Coder&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
