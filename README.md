@@ -12,8 +12,6 @@ You can reach me on <a href="mailto:mishraaman2210@gmail.com"><img height="16" w
 <br>
 
 <div>
-	Want to know more about me and my work, heres my <a href="https://am-coder.github.io/personal-site/"><b>Portfolio</b></a>
-	<br>	
 	Until then, <b><i>Happy Coding!</i></b> 😊
 </div>
 
